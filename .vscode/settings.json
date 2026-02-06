@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "Grade11Review/Programming Interface/tests",
+        "Grade11Review/Programming Interface/src",
+        "Grade11Review/src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
