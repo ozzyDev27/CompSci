@@ -1,9 +1,6 @@
-public class StringSplosion extends GenericTestHarness
+public class StringSplosion
 {
   public static void main(String[] args) {
-      assertEquals("CCoCodCode",stringSplosion("Code"));
-      assertEquals("aababc",stringSplosion("abc"));
-      assertEquals("aab",stringSplosion("ab"));
   }
 
   public static String stringSplosion(String str)

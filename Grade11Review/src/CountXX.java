@@ -9,6 +9,10 @@ public class CountXX
   public static int countXX(String str)
   {
     int num=0;
+    str=str.toLowerCase();
+    if (str.length()<2) {
+      return 0;
+    }
     while (str.indexOf("xx")>=0) {
       str = str.substring(0,str.indexOf("xx")) + str.substring(str.indexOf("xx")+1);
       num++;

@@ -1,5 +1,11 @@
 public class StringTimes
 {
+
+  // private 
+
+  public static void main(String[] args) {
+  }
+  
   public static String stringTimes(String str, int num)
   {
     return num <= 0 ? "" : str + stringTimes(str, num - 1);
