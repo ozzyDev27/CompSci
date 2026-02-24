@@ -1,8 +1,8 @@
 {
     "java.project.sourcePaths": [
-        "Grade11Review/Programming Interface/tests",
-        "Grade11Review/Programming Interface/src",
-        "Grade11Review/src"
+        "POTDs/src",
+        "Grade11Review/src",
+        "POTDs/CH10/src"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
