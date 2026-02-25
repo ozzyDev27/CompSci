@@ -1,9 +1,3 @@
-/**
-* This is not an incredibly robust Generic Test Harness, as it lacks other assertions,
-+ but it does what I need it to do in terms of comparisons without the need for JUnit.
-*
-* Feel free to change it or add your own.
-*/
 import java.util.Arrays;
 
 public class GenericTestHarness
