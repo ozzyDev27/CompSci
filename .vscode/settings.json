@@ -1,11 +1,12 @@
 {
     "java.project.sourcePaths": [
+        "POTDs/CH12/src",
         "POTDs/CH10/src",
-        "Grade11Review/src",
-        "POTDs/CH12/src"
+        "POTDs/CH9/src"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
