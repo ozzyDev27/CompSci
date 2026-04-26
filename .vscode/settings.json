@@ -1,8 +1,13 @@
 {
     "java.project.sourcePaths": [
+        "other/CH9 Exercises/Quest4-OPTIONAL",
+        "other/CH9 Exercises/Quest3-OPTIONAL",
+        "caseStudies/EscapeRoom/src",
+        "POTDs/CH9/src",
         "POTDs/CH12/src",
+        "POTDs/CH11/src",
         "POTDs/CH10/src",
-        "POTDs/CH9/src"
+        "POTDs/CH13/src"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
